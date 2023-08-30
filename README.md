@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MichaelDeidson&show_icons=true&theme=synthwave" alt="MichaelDeidson :: Profile Stats" /></p>
-
-# Olá, Mundo!
-
-Este é um exemplo simples de código em JavaScript que exibe "Olá, Mundo!" no console do navegador.
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MichaelDeidson&show_icons=true&theme=dark" alt="MichaelDeidson :: Profile Stats" /></p>
 
 ```javascript
 console.log("Olá, Mundo!");
