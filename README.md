@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 
 
-# Meu Projeto - My Project
+# Meu Projeto 
 Bem-vindo ao meu incrível projeto! Você também pode conferir meu [site pessoal](https://michael.deidson.com/).
 
-
-Welcome to my amazing project! You can also check out my [personal website] 
-(https://michael.deidson.com/).
+# My Project
+Welcome to my amazing project! You can also check out my [personal website](https://michael.deidson.com/).
