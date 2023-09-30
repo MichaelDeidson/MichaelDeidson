@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MichaelDeidson&show_icons=true&theme=dark" alt="MichaelDeidson :: Profile Stats" /></p>
 
 <div>
-<script>
+
 ```javascript
 console.log("Olá, Mundo!");
-</script>
+
 </div>
 <div>
 https://michael.deidson.com
