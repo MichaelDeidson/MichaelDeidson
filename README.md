@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ```javascript
-console.log("Olá, Mundo!");
+console.log("Olá, Mundo!")
 
 
 
