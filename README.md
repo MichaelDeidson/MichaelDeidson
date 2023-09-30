@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ```javascript
 console.log("Olá, Mundo!");
 
-console.log("
-https://michael.deidson.com/");
+
+https://michael.deidson.com
 
