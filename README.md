@@ -33,14 +33,9 @@ Here are some ideas to get you started:
 
 
 
-# Meu Projeto
-
+# Meu Projeto - My Project
 Bem-vindo ao meu incrível projeto! Você também pode conferir meu [site pessoal](https://michael.deidson.com/).
 
-## Olá, Mundo em JavaScript
 
-```javascript
-console.log("Olá, Mundo!");
-
-
-
+Welcome to my amazing project! You can also check out my [personal website] 
+(https://michael.deidson.com/).
